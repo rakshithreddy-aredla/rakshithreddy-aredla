@@ -7,7 +7,7 @@
 I build things end-to-end: e-commerce with live inventory and payments,
 ML classifiers from scratch, and tools that make developers faster.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-4A90D9?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/rakshithreddy-aredla/my-portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-LIVE-4A90D9?style=for-the-badge&logo=vercel&logoColor=white)](https://rakshithreddy-aredla.github.io/my-portfolio/)
 [![Arkaira](https://img.shields.io/badge/Arkaira-arkaira.in-E85D75?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/rakshithreddy-aredla/Arkaira)
 
 </div>
