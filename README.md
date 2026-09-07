@@ -48,6 +48,12 @@ ML classifiers from scratch, and tools that make developers faster.
 
 <div align="center">
 
+<img src="https://github.com/rakshithreddy-aredla/rakshithreddy-aredla/blob/snake-output/github-snake.svg" alt="Contribution snake" />
+
+</div>
+
+<div align="center">
+
 <sub>Built with real code, honest commits, and one profile README that actually renders.</sub>
 
 </div>
