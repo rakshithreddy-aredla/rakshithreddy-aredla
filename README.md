@@ -22,6 +22,7 @@ ML/AI models with measurable results, and tools that make developers faster.
 | 🔍 **[GitGlance](https://github.com/rakshithreddy-aredla/GitGlance)** | CLI that scores any GitHub profile 0-100 with exact fixes — transparency over vibes | Python |
 | 📧 **[SpamScope](https://github.com/rakshithreddy-aredla/SpamScope)** | Naive Bayes spam classifier built from scratch — no sklearn, all math readable | Python |
 | 🛡️ **[EnvGuard](https://github.com/rakshithreddy-aredla/EnvGuard)** | Zero-dependency typed env validation for Node — fail fast, list every error at boot | TypeScript |
+| 🔬 **[rag-pipeline-monitor](https://github.com/rakshithreddy-aredla/rag-pipeline-monitor)** | RAG pipeline observability — faithfulness propagation, cascade detection, CUSUM drift monitors, root-cause localization | Python, FastAPI |
 
 ---
 
