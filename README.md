@@ -1,74 +1,32 @@
-<div align="center">
+## Hi, I'm Rakshith
 
-# Hi, I'm Rakshith Reddy Aredla
+Full-stack and AI developer based in Hyderabad. I like building things that are small enough to finish and real enough to use.
 
-**Full-Stack + AI Developer · Hyderabad, India**
+Mostly TypeScript and Python — Next.js and Supabase on the front, FastAPI when there's a model involved. Currently interested in retrieval and in the parts of agent memory that turn out to be harder than they sound.
 
-I build things end-to-end: e-commerce with live inventory and payments,
-ML/AI models with measurable results, and tools that make developers faster.
+### Things I've built
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-LIVE-4A90D9?style=for-the-badge&logo=vercel&logoColor=white)](https://rakshithreddy-aredla.github.io/my-portfolio/)
-[![Arkaira](https://img.shields.io/badge/Arkaira-arkaira.in-E85D75?style=for-the-badge&logo=javascript&logoColor=white)](https://github.com/rakshithreddy-aredla/Arkaira)
+**[Arkaira](https://github.com/rakshithreddy-aredla/Arkaira)** — an online flower shop. Realtime stock that decrements when someone pays, Razorpay checkout, admin dashboard. [Live here](https://arkaira.vercel.app).
 
-</div>
+**[RecallDesk](https://github.com/rakshithreddy-aredla/recalldesk)** — a support copilot that remembers. Customer comes back saying "it's broken again", the agent already knows which ticket it was and what fixed it last time.
 
----
+**[Anchor](https://github.com/rakshithreddy-aredla/anchor-caregiver-memory)** — for people coordinating care for an aging parent. Keeps the medication list, the lab results, the doctor's instructions in one place, so you're not reconstructing three months of history from memory in an appointment.
 
-## What I'm Building
+**[GitGlance](https://github.com/rakshithreddy-aredla/GitGlance)** — a CLI that scores a GitHub profile the way a selection committee would, and tells you what to fix. `python glance.py <username>`. Written because I wanted the feedback my own profile was getting, in a form I could argue with.
 
-| Project | What it is | Stack |
-|---|---|---|
-| 🌸 **[Arkaira](https://github.com/rakshithreddy-aredla/Arkaira)** | Live flower e-commerce store — realtime stock, Razorpay payments, admin dashboard | Next.js, Supabase, TypeScript |
-| 🔍 **[GitGlance](https://github.com/rakshithreddy-aredla/GitGlance)** | CLI that scores any GitHub profile 0-100 with exact fixes — transparency over vibes | Python |
-| 📧 **[SpamScope](https://github.com/rakshithreddy-aredla/SpamScope)** | Naive Bayes spam classifier built from scratch — no sklearn, all math readable | Python |
-| 🛡️ **[EnvGuard](https://github.com/rakshithreddy-aredla/EnvGuard)** | Zero-dependency typed env validation for Node — fail fast, list every error at boot | TypeScript |
-| 🔬 **[rag-pipeline-monitor](https://github.com/rakshithreddy-aredla/rag-pipeline-monitor)** | RAG pipeline observability — faithfulness propagation, cascade detection, CUSUM drift monitors, root-cause localization | Python, FastAPI |
+**[EnvGuard](https://github.com/rakshithreddy-aredla/EnvGuard)** — typed environment variable validation for Node. One dev dependency, and it fails at boot listing every bad key instead of at 3am on a request.
 
----
+**[SpamScope](https://github.com/rakshithreddy-aredla/SpamScope)** — Naive Bayes written out by hand, no sklearn, no numpy. I wanted to see the Laplace smoothing actually do something rather than take it on faith.
 
-## 🤖 AI / Machine Learning Projects
+### Earlier
 
-| Project | What it is | Stack | Result |
-|---|---|---|---|
-| 🤖 **[AI Chatbot (RAG)](https://github.com/rakshithreddy-aredla/ai-chatbot-rag)** | Retrieval-Augmented Generation chatbot — answers from a knowledge base with source citations + live browser UI | Flask, scikit-learn, LLM | Demo-ready |
-| 🔢 **[Digit Recognition CNN](https://github.com/rakshithreddy-aredla/handwritten-digit-cnn)** | Convolutional Neural Network trained on MNIST, full training pipeline | PyTorch | **~99%** accuracy |
-| 📧 **[Spam Classifier](https://github.com/rakshithreddy-aredla/spam-classifier)** | SMS spam detection with TF-IDF + Naive Bayes on real UCI dataset | scikit-learn, NLP | **~97%** accuracy |
-| 🎬 **[Movie Recommender](https://github.com/rakshithreddy-aredla/movie-recommender)** | Content-based recommendation engine using cosine similarity | scikit-learn | Ranked results |
-| 🏠 **[House Price Predictor](https://github.com/rakshithreddy-aredla/house-price-predictor)** | Random Forest regression with feature engineering | scikit-learn | **R² = 0.80** |
-| 🌸 **[Iris Classifier](https://github.com/rakshithreddy-aredla/iris-classifier)** | Multi-class classification — compares 5 algorithms, decision-boundary viz | scikit-learn | **~98%** accuracy |
+A batch of ML exercises I worked through — [CNN on MNIST](https://github.com/rakshithreddy-aredla/handwritten-digit-cnn) (99%), [RAG chatbot](https://github.com/rakshithreddy-aredla/ai-chatbot-rag) with a browser UI, [house price regression](https://github.com/rakshithreddy-aredla/house-price-predictor), [movie recommender](https://github.com/rakshithreddy-aredla/movie-recommender), [iris classification](https://github.com/rakshithreddy-aredla/iris-classifier). Useful for learning the shape of the problem. I keep them up because the code runs.
 
----
+### Elsewhere
 
-## Stats
+- [Portfolio](https://rakshithreddy-aredla.github.io/my-portfolio/) · [Résumé](https://rakshithreddy-aredla.github.io/my-portfolio/resume.html)
 
-<div align="center">
+I'm open to hackathon teams and to interesting problems — the GitHub inbox works.
 
-<img src="https://github-readme-stats.vercel.app/api?username=rakshithreddy-aredla&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E6EDF3&icon_color=58A6FF&text_color=9198A1" alt="GitHub stats" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rakshithreddy-aredla&layout=compact&hide_border=true&bg_color=0D1117&title_color=E6EDF3&text_color=9198A1&langs_count=6" alt="Top languages" height="165" />
-
-<br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=rakshithreddy-aredla&hide_border=true&background=0D1117&ring=58A6FF&currStreakLabel=E6EDF3&sideLabels=9198A1&dates=9198A1&currStreakNum=FFFFFF&fire=FF7B72" alt="Streak stats" height="160" />
-
-</div>
-
----
-
-## Currently
-
-- Building ML/AI projects end-to-end — models with measured results, wrapped in demoable products
-- Deepening ML fundamentals (implementing algorithms from scratch > importing them)
-- Growing my RAG chatbot with real embeddings + vector database
-- Open to hackathon teams and collaborations — reach me right here on GitHub
-
-<div align="center">
-
-<img src="https://github.com/rakshithreddy-aredla/rakshithreddy-aredla/blob/snake-output/github-snake.svg" alt="Contribution snake" />
-
-</div>
-
-<div align="center">
-
-<sub>Built with real code, honest commits, and one profile README that actually renders.</sub>
-
-</div>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=rakshithreddy-aredla&show_icons=true&hide_border=true&bg_color=0D1117&title_color=E6EDF3&icon_color=58A6FF&text_color=9198A1)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rakshithreddy-aredla&layout=compact&hide_border=true&bg_color=0D1117&title_color=E6EDF3&text_color=9198A1&langs_count=6)
